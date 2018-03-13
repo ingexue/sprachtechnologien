@@ -1,0 +1,23 @@
+
+title: "Sprachtechnologien"
+email: korbinian.riedhammer@fh-rosenheim.de
+description: "Materialien für Sprachtechnologien (ST)"
+
+url: "https://sikoried.github.io"
+baseurl: "/sprachtechnologien"
+
+exclude:
+  - "LICENSE"
+  - "Remarks.md"
+
+github_username: ["sikoried"]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge

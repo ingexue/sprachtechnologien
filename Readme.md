@@ -30,7 +30,7 @@ _Wird noch ergänzt._
 
 ## Semesterterminplan
 
-- **15. März: Einführung**
+- **15. März: Einführung ([Folien](01-intro/))**
 	
 	Sprechende Computersysteme -- ewige Science Fiction?
 
